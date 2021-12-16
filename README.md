@@ -2,7 +2,11 @@
 
 Name: NFT monitor
 
+Site: https://nft-spy.surge.sh
 
+Video: https://www.youtube.com/watch?app=desktop&v=lcg5RmB3NFc
+
+Email UD: margaritka1992@gmail.com
 
 ## How to install and run?
 
